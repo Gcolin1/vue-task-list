@@ -1,4 +1,6 @@
-# task-list
+# Lista de tarefas desenvolvida com vue.js
+
+
 
 ## Project setup
 ```
