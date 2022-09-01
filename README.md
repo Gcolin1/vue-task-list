@@ -1,6 +1,8 @@
 # Lista de tarefas desenvolvida com vue.js
 
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="colin-vue"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+</div>
 
 ## Project setup
 ```
